@@ -14,7 +14,7 @@ It’s a beginner-friendly front-end project to learn animations, hover effects,
 ---
 
 ## 🖼️ Demo Preview
-(Add a screenshot or GIF of your project here for better visibility.)
+https://divyanshuyadav7.github.io/MY_Portfolio/personalportfolioproject.html
 
 ---
 
